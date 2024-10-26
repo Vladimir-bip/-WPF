@@ -1,0 +1,36 @@
+﻿<Window x:Class="Лымарь.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Лымарь"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Menu Name ="Menu_123" Background="White" BorderBrush="Navy" BorderThickness="1">
+            <MenuItem Name ="mi_open"   Header="_Изменить цвет" Click="MenuItem_Click" Background="White" MouseEnter="mi_open_MouseEnter"/>
+            <MenuItem Header="_Авторы"  Click="MenuItem_Click_1" Background="White" MouseEnter ="MenuItem_MouseEnter"/>
+            <MenuItem Header="_Закрыть меню" Click="MenuItem_Click_2" Background="White" MouseEnter ="MenuItem_MouseEnter_1" />
+            <Menu x:Name ="Menu_1" Background="White" BorderBrush="Navy" BorderThickness="1" Height="355" Width="768">
+                <Button Name="but1" Click="MenuItem_Click" Height="73" Width="80" MouseEnter="mi_open_MouseEnter">
+                    <Image Source="C:\Users\student\Desktop\555\images1.png"/>
+                </Button>
+                <Button Name="but2" Click="MenuItem_Click_1" Height="73" Width="80" MouseEnter ="MenuItem_MouseEnter">
+                    <Image Source="C:\Users\student\Desktop\555\image2.png"/>
+                </Button>
+                <Button Name="but3" Click="MenuItem_Click_2" Height="73" Width="80" MouseEnter ="MenuItem_MouseEnter_1">
+                    <Image Source="C:\Users\student\Desktop\555\image3.png"/>
+                </Button>
+            </Menu>
+
+        </Menu>
+        <ToolBar Background="White" Height="23" Margin="0,356,0,40"/>
+        <StatusBar Height="30"  DockPanel.Dock="Bottom" Margin="0,379,0,10">
+            <TextBlock Name ="r1" Text=""/>
+            <StatusBarItem HorizontalAlignment="Right">
+                <TextBlock Name ="rr1" Text=""/>
+            </StatusBarItem>
+
+        </StatusBar>
+    </Grid>
+</Window>
