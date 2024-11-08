@@ -1,0 +1,14 @@
+C:\Users\student\source\repos\Лымарь_словарь\Лымарь_словарь\obj\Debug\MainWindow.g.cs
+C:\Users\student\source\repos\Лымарь_словарь\Лымарь_словарь\obj\Debug\App.g.cs
+C:\Users\student\source\repos\Лымарь_словарь\Лымарь_словарь\obj\Debug\Лымарь_словарь_MarkupCompile.cache
+C:\Users\student\source\repos\Лымарь_словарь\Лымарь_словарь\obj\Debug\Лымарь_словарь_MarkupCompile.lref
+C:\Users\student\source\repos\Лымарь_словарь\Лымарь_словарь\bin\Debug\Лымарь_словарь.exe.config
+C:\Users\student\source\repos\Лымарь_словарь\Лымарь_словарь\bin\Debug\Лымарь_словарь.exe
+C:\Users\student\source\repos\Лымарь_словарь\Лымарь_словарь\bin\Debug\Лымарь_словарь.pdb
+C:\Users\student\source\repos\Лымарь_словарь\Лымарь_словарь\obj\Debug\MainWindow.baml
+C:\Users\student\source\repos\Лымарь_словарь\Лымарь_словарь\obj\Debug\Лымарь_словарь.g.resources
+C:\Users\student\source\repos\Лымарь_словарь\Лымарь_словарь\obj\Debug\Лымарь_словарь.Properties.Resources.resources
+C:\Users\student\source\repos\Лымарь_словарь\Лымарь_словарь\obj\Debug\Лымарь_словарь.csproj.GenerateResource.cache
+C:\Users\student\source\repos\Лымарь_словарь\Лымарь_словарь\obj\Debug\Лымарь_словарь.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Лымарь_словарь\Лымарь_словарь\obj\Debug\Лымарь_словарь.exe
+C:\Users\student\source\repos\Лымарь_словарь\Лымарь_словарь\obj\Debug\Лымарь_словарь.pdb

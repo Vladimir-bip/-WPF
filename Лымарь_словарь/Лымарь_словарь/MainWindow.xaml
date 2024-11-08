@@ -1,0 +1,16 @@
+﻿<Window x:Class="Лымарь_словарь.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Лымарь_словарь"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox Name="KeyInput" Margin="25,108,526,276"/>
+        <Button Name="SearchButton" Content="Поиск" Margin="25,161,526,228" Click="SearchButton_Click"/>
+        <TextBlock Name="ResultTextBlock" Margin="356,27,81,48" TextWrapping="Wrap" Text="Введите текст"/>
+        <Button Name="RemoveButton" Content="Удалить элемент" Margin="25,214,526,176" Click="RemoveButton_Click"/>
+        <Button Name="ClearButton" Content="Очистить все" Margin="25,267,526,122" Click="ClearButton_Click"/>
+    </Grid>
+</Window>
